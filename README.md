@@ -23,3 +23,4 @@
 
 - yinspark.github.io(博客页面)：<https://github.com/yinSpark/yinspark.github.io/>
 - awesome-yinspark(我的有些使用)：<https://github.com/yinSpark/awesome-yinspark>
+- templateofvuecli4(drf 实现 api 小模板)：<https://github.com/yinSpark/templateofvuecli4>
