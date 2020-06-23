@@ -6,13 +6,13 @@
 
 举例：
 
-- <https://cdn.jsdelivr.net/gh/yinSpark/awesome-yinspark@master/images/Alipay.jpg>
+- <https://cdn.jsdelivr.net/gh/yinSpark/awesome-yinspark@master/images/Alipay.png>
 
 
 由于 awesome-yinspark 项目发布到了GitHub Pages，你也可以这样访问
 
-- <http://www.yinspark.xyz/awesome-yinspark/images/Alipay.jpg>
-- <https://yinspark.github.io/awesome-yinspark/images/Alipay.jpg>
+- <http://www.yinspark.xyz/awesome-yinspark/images/Alipay.png>
+- <https://yinspark.github.io/awesome-yinspark/images/Alipay.png>
 
 另外，如何访问我的 GitHub Pages 项目呢
 
